@@ -4,5 +4,5 @@
 ***RUN*** 
  node cc.js
 
-***Result*** 
+***Result*** <br>
  مؤلفه‌های همبند :  [ [ 'A', 'B', 'C', 'D' ] ]
